@@ -67,6 +67,9 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
+"use strict";
+
+
 var $ = __webpack_require__(1);
 var Person = __webpack_require__(2);
 
@@ -79,7 +82,6 @@ var jane = new Person("Jane Smith", "green");
 jane.greet();
 
 $("h1").remove();
-
 
 /***/ }),
 /* 1 */
@@ -10454,18 +10456,20 @@ return jQuery;
 
 /***/ }),
 /* 2 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
 
 function Person(fullName, favColor) {
   this.name = fullName;
   this.favoriteColor = favColor;
-  this.greet = function() {
+  this.greet = function () {
     console.log("Hello, my name is " + this.name + " and my favorite color is " + this.favoriteColor + ".");
-  }
+  };
 }
 
 module.exports = Person;
-
 
 /***/ })
 /******/ ]);
