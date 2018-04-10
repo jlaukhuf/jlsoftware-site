@@ -1,1 +1,54 @@
-.icon-custom-software,.icon-database,.icon-envelope{background-image:url(./app/assets/images/sprites/sprite.png);background-position:0 0;width:142px;height:60px}.icon-database,.icon-envelope{background-position:-142px -46px;width:44px;height:64px}.icon-envelope{background-position:0 -129px;width:64px;height:43px}.icon-laptop,.icon-mobile,.icon-projects,.icon-training,.icon-web{background-image:url(./app/assets/images/sprites/sprite.png);background-position:0 -60px;width:72px;height:69px}.icon-mobile,.icon-projects,.icon-training,.icon-web{background-position:-206px 0;width:37px;height:64px}.icon-projects,.icon-training,.icon-web{background-position:-72px -60px;width:64px;height:61px}.icon-training,.icon-web{background-position:-142px 0;height:46px}.icon-web{background-position:-64px -129px;height:41px}
+/* Do not edit modules/_sprite directly as it is generated automatically by Gulp
+Instead edit gulp/templates/sprite */
+
+    .icon {
+      background-image: url('/assets/images/sprites/sprite-498a0680.svg');
+    }
+
+  .icon--custom-software {
+    width: 189.333px;
+    height: 80px;
+    background-position: 0 0;
+  }
+
+  .icon--database {
+    width: 45px;
+    height: 65.312px;
+    background-position: 33.17972350230415% 98.02451148440178%;
+  }
+
+  .icon--envelope {
+    width: 72px;
+    height: 48px;
+    background-position: 0 66.17647058823529%;
+  }
+
+  .icon--laptop {
+    width: 72px;
+    height: 69px;
+    background-position: 99.64894736842105% 0;
+  }
+
+  .icon--mobile {
+    width: 42px;
+    height: 72px;
+    background-position: 86.06045454545455% 38.333333333333336%;
+  }
+
+  .icon--projects {
+    width: 72px;
+    height: 69px;
+    background-position: 0 100%;
+  }
+
+  .icon--training {
+    width: 77px;
+    height: 55px;
+    background-position: 0 40.609137055837564%;
+  }
+
+  .icon--web {
+    width: 75px;
+    height: 48px;
+    background-position: 41.1764705882353% 39.21568627450981%;
+  }
