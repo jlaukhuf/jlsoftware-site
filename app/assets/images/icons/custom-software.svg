@@ -7,18 +7,65 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142"
+   height="59"
+   viewBox="0 0 37.570832 15.610417"
    version="1.1"
-   id="svg82"
-   width="189.33333"
-   height="80"
-   viewBox="0 0 189.33333 80"
-   sodipodi:docname="custom-software.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   id="svg116"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="custom-software.svg">
+  <defs
+     id="defs110">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1237"
+       x="-0.01373142"
+       width="1.0274628"
+       y="-0.095168715"
+       height="1.1903374">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.1956263"
+         id="feGaussianBlur1239" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1272"
+       x="-0.012569544"
+       width="1.0251391"
+       y="-0.078959346"
+       height="1.1579187">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22506067"
+         id="feGaussianBlur1274" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="71.837583"
+     inkscape:cy="30.931828"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata88">
+     id="metadata113">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -29,101 +76,61 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs86" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview84"
-     showgrid="false"
-     inkscape:zoom="1.5"
-     inkscape:cx="227.66666"
-     inkscape:cy="40"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg82" />
-  <image
-     width="189.33333"
-     height="80"
-     preserveAspectRatio="none"
-     style="image-rendering:optimizeQuality"
-     xlink:href="data:image/png;base64,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
-"
-     id="image90"
-     x="0"
-     y="0" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-281.38957)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373;filter:url(#filter1237)"
+       x="2.0406775"
+       y="286.30011"
+       id="text163-0"><tspan
+         sodipodi:role="line"
+         id="tspan161-0"
+         x="2.0406775"
+         y="286.30011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373">&lt;customized/&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.84537697px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04902596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373;filter:url(#filter1272)"
+       x="-2.3938773"
+       y="262.9238"
+       id="text972-2"
+       transform="matrix(0.86300093,0,0,1.1587473,2.5513393,-8.8824405)"><tspan
+         sodipodi:role="line"
+         id="tspan970-4"
+         x="-2.3938773"
+         y="262.9238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.04902596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373">JLsoftware</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d59541;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373"
+       x="1.8898818"
+       y="4.7200289"
+       id="text163"><tspan
+         sodipodi:role="line"
+         id="tspan161"
+         x="1.8898818"
+         y="4.7200289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#d59541;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373">&lt;customized/&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.84537697px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d59541;fill-opacity:1;stroke:#000000;stroke-width:0.04902596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373"
+       x="0.31608552"
+       y="255.02219"
+       id="text972"
+       transform="matrix(0.8630009,0,0,1.1587473,0,-281.38956)"><tspan
+         sodipodi:role="line"
+         id="tspan970"
+         x="0.31608552"
+         y="255.02219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#d59541;fill-opacity:1;stroke:#000000;stroke-width:0.04902596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373">JLsoftware</tspan></text>
+  </g>
 </svg>

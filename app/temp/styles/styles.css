@@ -1102,55 +1102,55 @@ a {
 Instead edit gulp/templates/sprite */
 
 .icon {
-      background-image: url('/assets/images/sprites/sprite-498a0680.svg');
+      background-image: url('/assets/images/sprites/sprite-236dcd08.svg');
     }
 
 .icon--custom-software {
-    width: 189.333px;
-    height: 80px;
+    width: 142px;
+    height: 59px;
     background-position: 0 0;
   }
 
 .icon--database {
-    width: 45px;
-    height: 65.312px;
-    background-position: 33.17972350230415% 98.02451148440178%;
+    width: 64px;
+    height: 64px;
+    background-position: 100% 0;
   }
 
 .icon--envelope {
     width: 72px;
     height: 48px;
-    background-position: 0 66.17647058823529%;
+    background-position: 0 47.96747967479675%;
   }
 
 .icon--laptop {
-    width: 72px;
-    height: 69px;
-    background-position: 99.64894736842105% 0;
-  }
-
-.icon--mobile {
-    width: 42px;
-    height: 72px;
-    background-position: 86.06045454545455% 38.333333333333336%;
-  }
-
-.icon--projects {
-    width: 72px;
-    height: 69px;
+    width: 64px;
+    height: 64px;
     background-position: 0 100%;
   }
 
+.icon--mobile {
+    width: 40px;
+    height: 64px;
+    background-position: 38.55421686746988% 100%;
+  }
+
+.icon--projects {
+    width: 64px;
+    height: 64px;
+    background-position: 73.2394366197183% 100%;
+  }
+
 .icon--training {
-    width: 77px;
-    height: 55px;
-    background-position: 0 40.609137055837564%;
+    width: 64px;
+    height: 48px;
+    background-position: 50.70422535211268% 47.96747967479675%;
   }
 
 .icon--web {
-    width: 75px;
-    height: 48px;
-    background-position: 41.1764705882353% 39.21568627450981%;
+    width: 64px;
+    height: 43px;
+    background-position: 100% 50%;
   }
 
 .site-footer {
