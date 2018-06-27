@@ -1097,6 +1097,61 @@ a {
     margin: .25rem 0 1rem 0;
   }
 
+/* Do not edit modules/_sprite directly as it is generated automatically by Gulp
+Instead edit gulp/templates/sprite */
+
+.icon {
+      background-image: url('/assets/images/sprites/sprite-236dcd08.svg');
+    }
+
+.icon--custom-software {
+    width: 142px;
+    height: 59px;
+    background-position: 0 0;
+  }
+
+.icon--database {
+    width: 64px;
+    height: 64px;
+    background-position: 100% 0;
+  }
+
+.icon--envelope {
+    width: 72px;
+    height: 48px;
+    background-position: 0 47.96747967479675%;
+  }
+
+.icon--laptop {
+    width: 64px;
+    height: 64px;
+    background-position: 0 100%;
+  }
+
+.icon--mobile {
+    width: 40px;
+    height: 64px;
+    background-position: 38.55421686746988% 100%;
+  }
+
+.icon--projects {
+    width: 64px;
+    height: 64px;
+    background-position: 73.2394366197183% 100%;
+  }
+
+.icon--training {
+    width: 64px;
+    height: 48px;
+    background-position: 50.70422535211268% 47.96747967479675%;
+  }
+
+.icon--web {
+    width: 64px;
+    height: 43px;
+    background-position: 100% 50%;
+  }
+
 .site-footer {
   background-color: #2f5572;
   color: #FFF;
