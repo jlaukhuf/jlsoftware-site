@@ -15,6 +15,14 @@
     color: $mainOrange;
   }
 
+  &--black {
+    color: $mainBlack;
+  }
+
+  &--blue {
+    color: $mainBlue;
+  }
+
   &--small {
     font-size: 1.2rem;
 

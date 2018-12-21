@@ -498,7 +498,7 @@ a {
 
 .large-hero__title {
     font-weight: 300;
-    color: #2f5572;
+    color: #d59541;
     font-size: 2.4rem;
     margin: 0;
   }
@@ -512,7 +512,7 @@ a {
 
 .large-hero__subtitle {
     font-weight: 300;
-    color: #2f5572;
+    color: #d59541;
     margin: 0;
     font-size: 1.5rem;
   }
@@ -527,9 +527,9 @@ a {
 .large-hero__description {
     color: #fff;
     font-size: 1.1rem;
-    font-weight: 100;
+    font-weight: 300;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, .1);
-    max-width: 30rem;
+    max-width: 25rem;
     margin-left: auto;
     margin-right: auto;
   }
@@ -691,6 +691,14 @@ a {
 
 .headline--orange {
     color: #d59541;
+  }
+
+.headline--black {
+    color: #000000;
+  }
+
+.headline--blue {
+    color: #2f5572;
   }
 
 .headline--small {
