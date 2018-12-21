@@ -2,12 +2,12 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('/assets/images/sprites/sprite-2ecd7d36.svg');
+      background-image: url('/assets/images/sprites/sprite-2e901f2a.svg');
     }
 
   .icon--custom-software {
-    width: 145px;
-    height: 65px;
+    width: 185px;
+    height: 75px;
     background-position: 0 0;
   }
 
@@ -20,7 +20,7 @@ Instead edit gulp/templates/sprite */
   .icon--envelope {
     width: 72px;
     height: 48px;
-    background-position: 0 50.3875968992248%;
+    background-position: 0 53.9568345323741%;
   }
 
   .icon--laptop {
@@ -32,23 +32,23 @@ Instead edit gulp/templates/sprite */
   .icon--mobile {
     width: 40px;
     height: 64px;
-    background-position: 37.8698224852071% 100%;
+    background-position: 30.62200956937799% 100%;
   }
 
   .icon--projects {
     width: 64px;
     height: 64px;
-    background-position: 71.72413793103448% 100%;
+    background-position: 56.21621621621622% 100%;
   }
 
   .icon--training {
     width: 64px;
     height: 48px;
-    background-position: 100% 49.6124031007752%;
+    background-position: 100% 46.0431654676259%;
   }
 
   .icon--web {
     width: 64px;
     height: 43px;
-    background-position: 49.6551724137931% 48.507462686567166%;
+    background-position: 38.91891891891892% 52.083333333333336%;
   }
